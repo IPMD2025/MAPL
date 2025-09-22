@@ -16,3 +16,4 @@ CUDA_VISIBLE_DEVICES=2 python main.py --gpu_devices 2 --dataset prcc --dataset_r
 
 `--save_dir`: replace `SAVE_DIR` with the path to save log file and checkpoints
 
+The 'PAR-PETA_1220_0.5. txt' in 'PRCC. py' and 'LTCC. py' can be generated through AAPAR（‘ http://IPMD2025/AAPAR/ ’）
